@@ -1,3 +1,4 @@
+#!/usr/bin/env python
 # Python library for parsing .bib files
 
 import re
